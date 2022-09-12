@@ -1,4 +1,4 @@
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+# Build a React Admin Panel App With Theming, Tables, Charts, Calendar, Kanban and More
 ***
 ### dashboard:
 ![ap0](src/images/ap0.png)
